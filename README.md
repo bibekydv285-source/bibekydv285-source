@@ -8,7 +8,7 @@
 
 </div>
 
-<img align="right" src="https://bibek-yadav.com.np/photo.jpeg" width="150" style="border-radius:50%; max-width:30%; height:auto; margin: 10px 0 10px 20px;" />
+<img align="right" src="https://bibek-yadav.com.np/photo.jpeg" style="border-radius:50%; width:32%; max-width:200px; min-width:130px; height:auto; margin: 10px 0 10px 20px;" />
 
 ### 💫 About Me
 
