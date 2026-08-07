@@ -10,9 +10,7 @@
 
 ---
 
-<div align="center">
-<img src="https://bibek-yadav.com.np/photo.jpeg" width="180" style="border-radius:50%;" />
-</div>
+<img align="right" src="https://bibek-yadav.com.np/photo.jpeg" width="220" style="border-radius:50%; margin: 10px 0 10px 20px;" />
 
 # 💫 About Me
 
@@ -25,6 +23,8 @@
 - 🌱 Currently improving my **ASP.NET Core**, **JavaScript**, and **SQL** skills
 - 🚀 Love creating responsive and modern web applications
 - ⚡ Goal: Become a Professional Software Engineer
+
+<br clear="right"/>
 
 ---
 
