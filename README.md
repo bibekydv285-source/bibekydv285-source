@@ -8,11 +8,9 @@
 
 </div>
 
----
-
 <img align="right" src="https://bibek-yadav.com.np/photo.jpeg" width="220" style="border-radius:50%; margin: 10px 0 10px 20px;" />
 
-# 💫 About Me
+### 💫 About Me
 
 ✨ Passionate about building modern web applications using **ASP.NET Core**, **C#**, and **SQL Server**.
 
