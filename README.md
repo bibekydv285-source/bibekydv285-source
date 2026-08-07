@@ -1,54 +1,191 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Bibek Kumar Yadav**
+# 👋 Hi, I'm **Bibek Kumar Yadav**
 
-### 🚀 ASP.NET Core • Full Stack Developer • BSc Computer Systems Engineering Student
+### ASP.NET Core Developer · Full Stack Developer · Computer Systems Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Full+Stack+Web+Developer;C%23+%7C+.NET+%7C+SQL+Developer;Always+Learning+New+Technologies" />
+<p>
+  <a href="https://bibek-yadav.com.np">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-0EA5E9?style=for-the-badge" />
+  </a>
+  <a href="mailto:Bibekydv51@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/bibek-yadav-060ba03b2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications;Always+Learning+%26+Improving" />
 
 </div>
 
-<img align="right" src="https://bibek-yadav.com.np/photo.jpeg" style="border-radius:50%; width:32%; max-width:200px; min-width:130px; height:auto; margin: 10px 0 10px 20px;" />
+---
 
-### 💫 About Me
+## 👨‍💻 About Me
 
-✨ Passionate about building modern web applications using **ASP.NET Core**, **C#**, and **SQL Server**.
+<img align="right" width="190" src="https://bibek-yadav.com.np/photo.jpeg" />
 
-- 🌍 **Location:** Kathmandu, Nepal
-- 💻 **Role:** ASP.NET Core & Full Stack Developer
-- 🎓 **Education:** BSc (Hons) Computer Systems Engineering
-- 🏫 **University:** ISMT College / University of Sunderland
-- 🌱 Currently improving my **ASP.NET Core**, **JavaScript**, and **SQL** skills
-- 🚀 Love creating responsive and modern web applications
-- ⚡ Goal: Become a Professional Software Engineer
+I'm **Bibek Kumar Yadav**, an undergraduate **Computer Systems Engineering student** and aspiring software developer from **Kathmandu, Nepal**.
+
+I enjoy building modern, responsive and user-friendly web applications using **ASP.NET Core, C#, SQL Server, HTML, CSS and JavaScript**.
+
+### 🚀 Currently
+
+- 🎓 Studying **BSc (Hons) Computer Systems Engineering**
+- 🏫 **ISMT College / University of Sunderland**
+- 💻 Developing applications with **ASP.NET Core & C#**
+- 🗄️ Working with **SQL Server & databases**
+- 🌱 Improving my **JavaScript, SQL and software development** skills
+- 🧠 Strengthening **problem-solving and programming** abilities
+- 🎯 Goal: Become a professional software engineer
 
 <br clear="right"/>
 
 ---
 
-# 🌐 Portfolio & Contact
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<a href="https://bibek-yadav.com.np">
-<img src="https://img.shields.io/badge/🌐_Portfolio-0EA5E9?style=for-the-badge"/>
-</a>
+### 💻 Programming & Development
 
-<a href="mailto:Bibekydv51@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge"/>
-</a>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,php,python&perline=7" />
 
-<a href="https://www.linkedin.com/in/bibek-yadav-060ba03b2">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🗄️ Database & Tools
 
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio&perline=5" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+</div>
 
 ---
 
-# 🤝 Connect With Me
+## 📊 Skills
 
-<p align="center">
+| Skill | Level |
+|:---|:---:|
+| C# | 🟦🟦🟦🟦⬜ Intermediate |
+| ASP.NET Core | 🟦🟦🟦🟦⬜ Intermediate |
+| SQL Server | 🟦🟦🟦🟦⬜ Intermediate |
+| JavaScript | 🟦🟦🟦🟦⬜ Intermediate |
+| HTML | 🟦🟦🟦🟦🟦 Advanced |
+| CSS | 🟦🟦🟦🟦🟦 Advanced |
+| Bootstrap | 🟦🟦🟦🟦⬜ Intermediate |
+| Python | 🟦🟦⬜⬜⬜ Basic |
+| Git & GitHub | 🟦🟦🟦🟦⬜ Intermediate |
+| Problem Solving | 🟩🟩🟩🟩🟩 Strong |
+| Algorithms | 🟩🟩🟩🟩🟩 Strong |
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 🚗 Bibek Car Rental
+
+A modern car rental website featuring vehicle listings, booking functionality, live price calculation, responsive design and database integration.
+
+**Tech:** ASP.NET Core · C# · SQL Server · HTML · CSS · JavaScript · Bootstrap
+
+<a href="https://bibek-yadav.com.np/bibek_car_rental">
+<img src="https://img.shields.io/badge/🌐%20Live%20Website-0EA5E9?style=for-the-badge"/>
+</a>
+
+---
+
+### 🥛 Yadav Ji Doodh Dairy
+
+A responsive dairy products website with product information, WhatsApp ordering, contact functionality and a modern user interface.
+
+**Tech:** HTML · CSS · JavaScript · Bootstrap
+
+<a href="https://bibek-yadav.com.np/yadav_dairy">
+<img src="https://img.shields.io/badge/🌐%20Live%20Website-16A34A?style=for-the-badge"/>
+</a>
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal portfolio website showcasing my skills, education, projects and developer journey.
+
+**Tech:** HTML · CSS · JavaScript · Bootstrap
+
+<a href="https://bibek-yadav.com.np">
+<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-2563EB?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 🎓 Education
+
+### 🎓 BSc (Hons) Computer Systems Engineering
+
+**ISMT College / University of Sunderland**
+
+Currently studying and developing knowledge in:
+
+- Computer Systems
+- Software Development
+- Programming
+- Web Technologies
+- Databases
+- Modern Computing Technologies
+
+### 🏫 +2 — Management
+
+**Khwopa Secondary School**
+
+Focus areas:
+
+- Computer
+- Economics
+
+### 🏫 SEE
+
+**Nabin English School**
+
+---
+
+# 📜 Professional Training
+
+- ✅ Problem Solving in Computer
+- ✅ ASP.NET Core Development
+- ✅ SQL Server Fundamentals
+
+---
+
+# 💡 What I Enjoy
+
+<div align="center">
+
+| 💻 Development | 🧠 Problem Solving | 📚 Learning |
+|:---:|:---:|:---:|
+| Building Web Apps | Algorithms & Logic | New Technologies |
+
+| 🎨 UI Design | 🗄️ Databases | 🚀 Projects |
+|:---:|:---:|:---:|
+| Responsive Interfaces | SQL Server | Real-world Applications |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://bibek-yadav.com.np">
+<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 <a href="https://github.com/bibekydv285-source">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -70,35 +207,7 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="mailto:Bibekydv51@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,php,bootstrap,git,github,python,vscode,visualstudio&perline=6&theme=dark"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
 </div>
-
----
-
-# 🚀 Featured Projects
-
-| 🚀 Project | Description | Live Demo |
-|------------|-------------|-----------|
-| 🚗 **Bibek Car Rental** | Responsive ASP.NET Car Rental Website with modern UI | **[Visit Website](https://bibek-yadav.com.np/bibek_car_rental)** |
-| 🥛 **Yadav Ji Doodh Dairy** | Dairy Products Website with WhatsApp Ordering | **[Visit Website](https://bibek-yadav.com.np/yadav_dairy)** |
-| 🌐 **Portfolio Website** | Personal Portfolio showcasing Projects & Skills | **[Visit Website](https://bibek-yadav.com.np)** |
 
 ---
 
@@ -106,58 +215,51 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bibekydv285-source&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bibekydv285-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekydv285-source&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekydv285-source&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bibekydv285-source&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
 ---
 
+# 🏆 GitHub Achievements
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bibekydv285-source&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bibekydv285-source&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="90%" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bibekydv285-source&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekydv285-source&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+## 🎯 My Developer Journey
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekydv285-source&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-> **"Success comes from consistency, continuous learning, and never giving up."**
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thank you for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=120&section=footer"/>
-
-</div>
+```text
+Learning
+   ↓
+Building Projects
+   ↓
+Improving Skills
+   ↓
+Solving Real Problems
+   ↓
+Becoming a Professional Software Engineer 🚀
