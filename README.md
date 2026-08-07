@@ -6,10 +6,10 @@
 
 <p>
   <a href="https://bibek-yadav.com.np">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-0EA5E9?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-0EA5E9?style=for-the-badge" />
   </a>
   <a href="mailto:Bibekydv51@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/bibek-yadav-060ba03b2">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,7 +17,7 @@
 </p>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications;Always+Learning+%26+Improving"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications;Always+Learning+%26+Improving"
 />
 
 </div>
@@ -26,15 +26,18 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 # 👨‍💻 About Me
 
-<div align="center">
-
 <img
-src="https://bibek-yadav.com.np/photo.jpeg"
-width="220"
-alt="Bibek Kumar Yadav"
+  align="right"
+  src="https://bibek-yadav.com.np/photo.jpeg"
+  style="
+    width:32%;
+    max-width:200px;
+    min-width:130px;
+    height:auto;
+    margin:10px 0 10px 20px;
+  "
+  alt="Bibek Kumar Yadav"
 />
-
-</div>
 
 I'm **Bibek Kumar Yadav**, an undergraduate **Computer Systems Engineering student** and aspiring software developer from **Kathmandu, Nepal**.
 
@@ -49,6 +52,8 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 - 🌱 Improving my **JavaScript, SQL and software development** skills
 - 🧠 Strengthening **problem-solving and programming** abilities
 - 🎯 Goal: Become a **Professional Software Engineer**
+
+<br clear="right"/>
 
 ---
 
@@ -68,7 +73,7 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 </div>
 
@@ -105,7 +110,7 @@ A modern car rental website featuring vehicle listings, booking functionality, l
 <div align="center">
 
 <a href="https://bibek-yadav.com.np/bibek_car_rental">
-<img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Website-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_Visit_Live_Website-0EA5E9?style=for-the-badge" />
 </a>
 
 </div>
@@ -123,7 +128,7 @@ A responsive dairy products website featuring product information, WhatsApp orde
 <div align="center">
 
 <a href="https://bibek-yadav.com.np/yadav_dairy">
-<img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Website-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_Visit_Live_Website-16A34A?style=for-the-badge" />
 </a>
 
 </div>
@@ -141,7 +146,7 @@ My personal portfolio website showcasing my skills, education, projects and deve
 <div align="center">
 
 <a href="https://bibek-yadav.com.np">
-<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_Visit_Portfolio-2563EB?style=for-the-badge" />
 </a>
 
 </div>
@@ -156,29 +161,26 @@ My personal portfolio website showcasing my skills, education, projects and deve
 
 Currently developing knowledge in:
 
-- Computer Systems
-- Software Development
-- Programming
-- Web Technologies
-- Databases
-- Modern Computing Technologies
+- 💻 Computer Systems
+- 🧑‍💻 Software Development
+- 🔤 Programming
+- 🌐 Web Technologies
+- 🗄️ Databases
+- 🚀 Modern Computing Technologies
 
 ---
 
-### 🏫 +2  Management completed 
+### 🏫 +2 — Management
 
-**from Khwopa Secondary School**
+**Khwopa Secondary School**
 
-Focus:
-
-- Computer
-- Economics
+**Focus:** Computer & Economics
 
 ---
 
-### 🏫 SEE completed
+### 🏫 SEE
 
-**from Nabin English School**
+**Nabin English School**
 
 ---
 
@@ -195,16 +197,20 @@ Focus:
 <div align="center">
 
 ### 💻 Development
-Building modern and responsive applications
+
+Building modern and responsive applications.
 
 ### 🧠 Problem Solving
-Programming logic, algorithms and debugging
+
+Programming logic, algorithms and debugging.
 
 ### 📚 Continuous Learning
-Exploring new technologies and improving my skills
+
+Exploring new technologies and improving my skills.
 
 ### 🚀 Building Projects
-Turning ideas into practical applications
+
+Turning ideas into practical applications.
 
 </div>
 
@@ -251,13 +257,13 @@ Turning ideas into practical applications
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=bibekydv285-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=bibekydv285-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  width="48%"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekydv285-source&layout=compact&theme=tokyonight&hide_border=true"
-width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekydv285-source&layout=compact&theme=tokyonight&hide_border=true"
+  width="48%"
 />
 
 </div>
@@ -267,8 +273,8 @@ width="48%"
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com?user=bibekydv285-source&theme=tokyonight&hide_border=true"
-width="70%"
+  src="https://github-readme-streak-stats.herokuapp.com?user=bibekydv285-source&theme=tokyonight&hide_border=true"
+  width="70%"
 />
 
 </div>
@@ -280,8 +286,8 @@ width="70%"
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=bibekydv285-source&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"
-width="90%"
+  src="https://github-profile-trophy.vercel.app/?username=bibekydv285-source&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"
+  width="90%"
 />
 
 </div>
@@ -293,8 +299,8 @@ width="90%"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=bibekydv285-source&theme=tokyo-night&hide_border=true&area=true"
-width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=bibekydv285-source&theme=tokyo-night&hide_border=true&area=true"
+  width="95%"
 />
 
 </div>
@@ -350,7 +356,7 @@ width="95%"
 <br>
 
 <img
-src="https://komarev.com/ghpvc/?username=bibekydv285-source&label=Profile%20Views&color=0EA5E9&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=bibekydv285-source&label=Profile%20Views&color=0EA5E9&style=for-the-badge"
 />
 
 <br><br>
@@ -360,7 +366,7 @@ src="https://komarev.com/ghpvc/?username=bibekydv285-source&label=Profile%20View
 <br><br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=120&section=footer"
 />
 
 </div>
