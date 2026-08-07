@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Full+Stack+Web+Developer;C%23+%7C+.NET+%7C+SQL+Developer;Always+Learning+New+Technologies" />
 
-<img src="https://komarev.com/ghpvc/?username=bibekydv285-source&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -96,7 +94,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,html,css,js,bootstrap,git,github,python,vscode,visualstudio&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,html,css,js,php,bootstrap,git,github,python,vscode,visualstudio&perline=6&theme=dark"/>
 
 </div>
 
