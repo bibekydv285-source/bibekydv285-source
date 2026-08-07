@@ -94,7 +94,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,html,css,js,php,bootstrap,git,github,python,vscode,visualstudio&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,php,bootstrap,git,github,python,vscode,visualstudio&perline=6&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 </div>
 
