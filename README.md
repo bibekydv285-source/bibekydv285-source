@@ -165,9 +165,9 @@ Currently developing knowledge in:
 
 ---
 
-### 🏫 +2 — Management
+### 🏫 +2  Management completed 
 
-**Khwopa Secondary School**
+** from Khwopa Secondary School**
 
 Focus:
 
@@ -176,9 +176,9 @@ Focus:
 
 ---
 
-### 🏫 SEE
+### 🏫 SEE completed
 
-**Nabin English School**
+**from Nabin English School**
 
 ---
 
