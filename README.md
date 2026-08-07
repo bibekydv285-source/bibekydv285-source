@@ -4,10 +4,6 @@
 
 ### A passionate ASP.NET Core & Full Stack Developer from Nepal
 
-<img src="https://komarev.com/ghpvc/?username=bibekydv285-source&label=PROFILE%20VIEWS&color=grey&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/bibekydv285-source?label=FOLLOWERS&style=for-the-badge&color=0077B5&labelColor=grey" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/bibekydv285-source?label=STARS&style=for-the-badge&color=0077B5&labelColor=grey" alt="Stars"/>
-
 </div>
 
 ---
@@ -21,7 +17,7 @@
 - 📄 LinkedIn: [Bibek Kumar Yadav](https://www.linkedin.com/in/bibek-yadav-060ba03b2)
 - 📫 Reach me at: [Bibekydv51@gmail.com](mailto:Bibekydv51@gmail.com)
 
-<img align="right" width="380" src="https://bibek-yadav.com.np/photo.jpeg" alt="Bibek Kumar Yadav"/>
+<img align="right" width="200" height="200" style="object-fit:cover;border-radius:12px;margin-left:20px" src="https://bibek-yadav.com.np/photo.jpeg" alt="Bibek Kumar Yadav"/>
 
 <br clear="both"/>
 
