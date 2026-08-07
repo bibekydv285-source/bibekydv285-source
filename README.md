@@ -167,7 +167,7 @@ Currently developing knowledge in:
 
 ### 🏫 +2  Management completed 
 
-** from Khwopa Secondary School**
+**from Khwopa Secondary School**
 
 Focus:
 
