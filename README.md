@@ -10,14 +10,14 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" width="220" height="220" style="object-fit:cover;border-radius:50%;margin-left:20px" src="https://bibek-yadav.com.np/photo.jpeg" alt="Bibek Kumar Yadav"/>
+
 - 🌍 I'm from **Kathmandu, Nepal**
 - 💻 I'm an **ASP.NET Core & Full Stack Developer**
 - 🌱 I'm currently studying **BSc (Hons) Computer Systems Engineering** at ISMT College / University of Sunderland
 - 🌐 Personal website: [bibek-yadav.com.np](https://bibek-yadav.com.np/)
 - 📄 LinkedIn: [Bibek Kumar Yadav](https://www.linkedin.com/in/bibek-yadav-060ba03b2)
 - 📫 Reach me at: [Bibekydv51@gmail.com](mailto:Bibekydv51@gmail.com)
-
-<img align="right" width="200" height="200" style="object-fit:cover;border-radius:12px;margin-left:20px" src="https://bibek-yadav.com.np/photo.jpeg" alt="Bibek Kumar Yadav"/>
 
 <br clear="both"/>
 
