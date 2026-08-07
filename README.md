@@ -170,17 +170,17 @@ Currently developing knowledge in:
 
 ---
 
-### 🏫 +2 — Management
+### 🏫 +2  Management completed
 
-**Khwopa Secondary School**
+**From Khwopa Secondary School**
 
 **Focus:** Computer & Economics
 
 ---
 
-### 🏫 SEE
+### 🏫 SEE completed
 
-**Nabin English School**
+**FromNabin English School**
 
 ---
 
