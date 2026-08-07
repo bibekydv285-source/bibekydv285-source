@@ -17,7 +17,7 @@
 </p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications;Always+Learning+%26+Improving"
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications;Always+Learning+%26+Improving"
 />
 
 </div>
@@ -26,10 +26,15 @@
 
 # 👨‍💻 About Me
 
-<table>
-<tr>
+<div align="center">
 
-<td width="70%" valign="top">
+<img
+src="https://bibek-yadav.com.np/photo.jpeg"
+width="220"
+alt="Bibek Kumar Yadav"
+/>
+
+</div>
 
 I'm **Bibek Kumar Yadav**, an undergraduate **Computer Systems Engineering student** and aspiring software developer from **Kathmandu, Nepal**.
 
@@ -45,21 +50,6 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 - 🧠 Strengthening **problem-solving and programming** abilities
 - 🎯 Goal: Become a **Professional Software Engineer**
 
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-<img
-  src="https://bibek-yadav.com.np/photo.jpeg"
-  width="260"
-  alt="Bibek Kumar Yadav"
-/>
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 # 🛠️ Tech Stack
@@ -72,7 +62,7 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 
 <br><br>
 
-### 🗄️ Database, Frameworks & Tools
+### 🗄️ Database & Development Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,bootstrap&perline=6" />
 
@@ -86,9 +76,7 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 
 # 📊 Skills
 
-<div align="center">
-
-| 💻 Technology | 📈 Level |
+| Technology | Level |
 |:---|:---:|
 | **C#** | 🟦🟦🟦🟦⬜ Intermediate |
 | **ASP.NET Core** | 🟦🟦🟦🟦⬜ Intermediate |
@@ -102,15 +90,13 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 | **Problem Solving** | 🟩🟩🟩🟩🟩 Strong |
 | **Algorithms** | 🟩🟩🟩🟩🟩 Strong |
 
-</div>
-
 ---
 
 # 🚀 Featured Projects
 
 ## 🚗 Bibek Car Rental
 
-A modern car rental website with vehicle listings, booking functionality, live price calculation, responsive design and database integration.
+A modern car rental website featuring vehicle listings, booking functionality, live price calculation, responsive design and database integration.
 
 **Technologies:**
 
@@ -183,7 +169,10 @@ Currently developing knowledge in:
 
 **Khwopa Secondary School**
 
-**Focus:** Computer & Economics
+Focus:
+
+- Computer
+- Economics
 
 ---
 
@@ -195,15 +184,9 @@ Currently developing knowledge in:
 
 # 📜 Professional Training
 
-<div align="center">
-
-| 🏆 Training | Status |
-|:---|:---:|
-| Problem Solving in Computer | ✅ Completed |
-| ASP.NET Core Development | ✅ Completed |
-| SQL Server Fundamentals | ✅ Completed |
-
-</div>
+- ✅ **Problem Solving in Computer**
+- ✅ **ASP.NET Core Development**
+- ✅ **SQL Server Fundamentals**
 
 ---
 
@@ -211,45 +194,17 @@ Currently developing knowledge in:
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+### 💻 Development
+Building modern and responsive applications
 
-### 💻
-**Development**
+### 🧠 Problem Solving
+Programming logic, algorithms and debugging
 
-Building modern applications
+### 📚 Continuous Learning
+Exploring new technologies and improving my skills
 
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-**Problem Solving**
-
-Logic & algorithms
-
-</td>
-
-<td align="center" width="25%">
-
-### 📚
-**Learning**
-
-New technologies
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-**Projects**
-
-Real-world applications
-
-</td>
-</tr>
-</table>
+### 🚀 Building Projects
+Turning ideas into practical applications
 
 </div>
 
@@ -296,13 +251,13 @@ Real-world applications
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=bibekydv285-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  width="48%"
+src="https://github-readme-stats.vercel.app/api?username=bibekydv285-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+width="48%"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekydv285-source&layout=compact&theme=tokyonight&hide_border=true"
-  width="48%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekydv285-source&layout=compact&theme=tokyonight&hide_border=true"
+width="48%"
 />
 
 </div>
@@ -312,8 +267,8 @@ Real-world applications
 <div align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=bibekydv285-source&theme=tokyonight&hide_border=true"
-  width="70%"
+src="https://github-readme-streak-stats.herokuapp.com?user=bibekydv285-source&theme=tokyonight&hide_border=true"
+width="70%"
 />
 
 </div>
@@ -325,8 +280,8 @@ Real-world applications
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=bibekydv285-source&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"
-  width="90%"
+src="https://github-profile-trophy.vercel.app/?username=bibekydv285-source&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"
+width="90%"
 />
 
 </div>
@@ -338,8 +293,8 @@ Real-world applications
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=bibekydv285-source&theme=tokyo-night&hide_border=true&area=true"
-  width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=bibekydv285-source&theme=tokyo-night&hide_border=true&area=true"
+width="95%"
 />
 
 </div>
@@ -350,16 +305,62 @@ Real-world applications
 
 <div align="center">
 
-```text
-        📚 Learn
-          ↓
-      💻 Practice
-          ↓
-      🚀 Build Projects
-          ↓
-      🧠 Solve Problems
-          ↓
-      📈 Improve Skills
-          ↓
-  👨‍💻 Become a Professional
-     Software Engineer
+**📚 Learn**
+
+↓
+
+**💻 Practice**
+
+↓
+
+**🚀 Build Projects**
+
+↓
+
+**🧠 Solve Problems**
+
+↓
+
+**📈 Improve Skills**
+
+↓
+
+**👨‍💻 Become a Professional Software Engineer**
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+`ASP.NET Core` · `C#` · `SQL Server` · `JavaScript` · `Web Development`
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for visiting my profile!
+
+### ⭐ Explore my repositories and follow my developer journey.
+
+<br>
+
+<img
+src="https://komarev.com/ghpvc/?username=bibekydv285-source&label=Profile%20Views&color=0EA5E9&style=for-the-badge"
+/>
+
+<br><br>
+
+**"Consistency + Learning + Practice = Growth."**
+
+<br><br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=120&section=footer"
+/>
+
+</div>
