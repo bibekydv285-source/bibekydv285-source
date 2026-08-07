@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Bibek Kumar Yadav**
 
-### ASP.NET Core Developer · Full Stack Developer · Computer Systems Engineering Student
+### 🚀 ASP.NET Core Developer · Full Stack Developer · Computer Systems Engineering Student
 
 <p>
   <a href="https://bibek-yadav.com.np">
@@ -16,15 +16,20 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications;Always+Learning+%26+Improving" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications;Always+Learning+%26+Improving"
+/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="190" src="https://bibek-yadav.com.np/photo.jpeg" />
+<table>
+<tr>
+
+<td width="70%" valign="top">
 
 I'm **Bibek Kumar Yadav**, an undergraduate **Computer Systems Engineering student** and aspiring software developer from **Kathmandu, Nepal**.
 
@@ -38,13 +43,26 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 - 🗄️ Working with **SQL Server & databases**
 - 🌱 Improving my **JavaScript, SQL and software development** skills
 - 🧠 Strengthening **problem-solving and programming** abilities
-- 🎯 Goal: Become a professional software engineer
+- 🎯 Goal: Become a **Professional Software Engineer**
 
-<br clear="right"/>
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<img
+  src="https://bibek-yadav.com.np/photo.jpeg"
+  width="260"
+  alt="Bibek Kumar Yadav"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -52,73 +70,92 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,php,python&perline=7" />
 
-### 🗄️ Database & Tools
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio&perline=5" />
+### 🗄️ Database, Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,bootstrap&perline=6" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 </div>
 
 ---
 
-## 📊 Skills
+# 📊 Skills
 
-| Skill | Level |
+<div align="center">
+
+| 💻 Technology | 📈 Level |
 |:---|:---:|
-| C# | 🟦🟦🟦🟦⬜ Intermediate |
-| ASP.NET Core | 🟦🟦🟦🟦⬜ Intermediate |
-| SQL Server | 🟦🟦🟦🟦⬜ Intermediate |
-| JavaScript | 🟦🟦🟦🟦⬜ Intermediate |
-| HTML | 🟦🟦🟦🟦🟦 Advanced |
-| CSS | 🟦🟦🟦🟦🟦 Advanced |
-| Bootstrap | 🟦🟦🟦🟦⬜ Intermediate |
-| Python | 🟦🟦⬜⬜⬜ Basic |
-| Git & GitHub | 🟦🟦🟦🟦⬜ Intermediate |
-| Problem Solving | 🟩🟩🟩🟩🟩 Strong |
-| Algorithms | 🟩🟩🟩🟩🟩 Strong |
+| **C#** | 🟦🟦🟦🟦⬜ Intermediate |
+| **ASP.NET Core** | 🟦🟦🟦🟦⬜ Intermediate |
+| **SQL Server** | 🟦🟦🟦🟦⬜ Intermediate |
+| **JavaScript** | 🟦🟦🟦🟦⬜ Intermediate |
+| **HTML** | 🟦🟦🟦🟦🟦 Advanced |
+| **CSS** | 🟦🟦🟦🟦🟦 Advanced |
+| **Bootstrap** | 🟦🟦🟦🟦⬜ Intermediate |
+| **Python** | 🟦🟦⬜⬜⬜ Basic |
+| **Git & GitHub** | 🟦🟦🟦🟦⬜ Intermediate |
+| **Problem Solving** | 🟩🟩🟩🟩🟩 Strong |
+| **Algorithms** | 🟩🟩🟩🟩🟩 Strong |
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
+## 🚗 Bibek Car Rental
+
+A modern car rental website with vehicle listings, booking functionality, live price calculation, responsive design and database integration.
+
+**Technologies:**
+
+`ASP.NET Core` · `C#` · `SQL Server` · `HTML` · `CSS` · `JavaScript` · `Bootstrap`
+
 <div align="center">
 
-### 🚗 Bibek Car Rental
-
-A modern car rental website featuring vehicle listings, booking functionality, live price calculation, responsive design and database integration.
-
-**Tech:** ASP.NET Core · C# · SQL Server · HTML · CSS · JavaScript · Bootstrap
-
 <a href="https://bibek-yadav.com.np/bibek_car_rental">
-<img src="https://img.shields.io/badge/🌐%20Live%20Website-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Website-0EA5E9?style=for-the-badge" />
 </a>
+
+</div>
 
 ---
 
-### 🥛 Yadav Ji Doodh Dairy
+## 🥛 Yadav Ji Doodh Dairy
 
-A responsive dairy products website with product information, WhatsApp ordering, contact functionality and a modern user interface.
+A responsive dairy products website featuring product information, WhatsApp ordering, contact functionality and a modern user interface.
 
-**Tech:** HTML · CSS · JavaScript · Bootstrap
+**Technologies:**
+
+`HTML` · `CSS` · `JavaScript` · `Bootstrap`
+
+<div align="center">
 
 <a href="https://bibek-yadav.com.np/yadav_dairy">
-<img src="https://img.shields.io/badge/🌐%20Live%20Website-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Website-16A34A?style=for-the-badge" />
 </a>
+
+</div>
 
 ---
 
-### 🌐 Personal Portfolio
+## 🌐 Personal Portfolio
 
 My personal portfolio website showcasing my skills, education, projects and developer journey.
 
-**Tech:** HTML · CSS · JavaScript · Bootstrap
+**Technologies:**
+
+`HTML` · `CSS` · `JavaScript` · `Bootstrap`
+
+<div align="center">
 
 <a href="https://bibek-yadav.com.np">
-<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-2563EB?style=for-the-badge" />
 </a>
 
 </div>
@@ -131,7 +168,7 @@ My personal portfolio website showcasing my skills, education, projects and deve
 
 **ISMT College / University of Sunderland**
 
-Currently studying and developing knowledge in:
+Currently developing knowledge in:
 
 - Computer Systems
 - Software Development
@@ -140,14 +177,15 @@ Currently studying and developing knowledge in:
 - Databases
 - Modern Computing Technologies
 
+---
+
 ### 🏫 +2 — Management
 
 **Khwopa Secondary School**
 
-Focus areas:
+**Focus:** Computer & Economics
 
-- Computer
-- Economics
+---
 
 ### 🏫 SEE
 
@@ -157,9 +195,15 @@ Focus areas:
 
 # 📜 Professional Training
 
-- ✅ Problem Solving in Computer
-- ✅ ASP.NET Core Development
-- ✅ SQL Server Fundamentals
+<div align="center">
+
+| 🏆 Training | Status |
+|:---|:---:|
+| Problem Solving in Computer | ✅ Completed |
+| ASP.NET Core Development | ✅ Completed |
+| SQL Server Fundamentals | ✅ Completed |
+
+</div>
 
 ---
 
@@ -167,13 +211,45 @@ Focus areas:
 
 <div align="center">
 
-| 💻 Development | 🧠 Problem Solving | 📚 Learning |
-|:---:|:---:|:---:|
-| Building Web Apps | Algorithms & Logic | New Technologies |
+<table>
+<tr>
+<td align="center" width="25%">
 
-| 🎨 UI Design | 🗄️ Databases | 🚀 Projects |
-|:---:|:---:|:---:|
-| Responsive Interfaces | SQL Server | Real-world Applications |
+### 💻
+**Development**
+
+Building modern applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+**Problem Solving**
+
+Logic & algorithms
+
+</td>
+
+<td align="center" width="25%">
+
+### 📚
+**Learning**
+
+New technologies
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+**Projects**
+
+Real-world applications
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -184,27 +260,31 @@ Focus areas:
 <div align="center">
 
 <a href="https://bibek-yadav.com.np">
-<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="https://github.com/bibekydv285-source">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/bibek-yadav-060ba03b2">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:Bibekydv51@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.facebook.com/share/1EcL4pWUiV/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/yadubanshi.bibek">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://wa.me/9779763244805">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </div>
@@ -215,9 +295,15 @@ Focus areas:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bibekydv285-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=bibekydv285-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  width="48%"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekydv285-source&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekydv285-source&layout=compact&theme=tokyonight&hide_border=true"
+  width="48%"
+/>
 
 </div>
 
@@ -225,7 +311,10 @@ Focus areas:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bibekydv285-source&theme=tokyonight&hide_border=true" width="70%" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=bibekydv285-source&theme=tokyonight&hide_border=true"
+  width="70%"
+/>
 
 </div>
 
@@ -235,7 +324,10 @@ Focus areas:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bibekydv285-source&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="90%" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=bibekydv285-source&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"
+  width="90%"
+/>
 
 </div>
 
@@ -245,21 +337,29 @@ Focus areas:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekydv285-source&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=bibekydv285-source&theme=tokyo-night&hide_border=true&area=true"
+  width="95%"
+/>
 
 </div>
 
 ---
 
-## 🎯 My Developer Journey
+# 🎯 My Developer Journey
+
+<div align="center">
 
 ```text
-Learning
-   ↓
-Building Projects
-   ↓
-Improving Skills
-   ↓
-Solving Real Problems
-   ↓
-Becoming a Professional Software Engineer 🚀
+        📚 Learn
+          ↓
+      💻 Practice
+          ↓
+      🚀 Build Projects
+          ↓
+      🧠 Solve Problems
+          ↓
+      📈 Improve Skills
+          ↓
+  👨‍💻 Become a Professional
+     Software Engineer
