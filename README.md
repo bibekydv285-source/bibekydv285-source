@@ -1,41 +1,24 @@
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
+# 👋 Hi, I'm **Bibek Kumar Yadav**
+
+### 🚀 ASP.NET Core Developer · Full Stack Developer · Computer Systems Engineering Student
+
+<p>
+  <a href="https://bibek-yadav.com.np">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-0EA5E9?style=for-the-badge" />
+  </a>
+  <a href="mailto:Bibekydv51@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/bibek-yadav-060ba03b2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:405DE6,100:243B8F&height=120&section=header&text=Bibek%20Kumar%20Yadav&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=ASP.NET%20Core%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=64&descSize=15"
-  width="100%"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications;Always+Learning+%26+Improving"
 />
-
-<!-- ===================== LINKS ===================== -->
-
-<table>
-<tr>
-
-<td>
-<a href="https://bibek-yadav.com.np">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-5EA9E6?style=for-the-badge" />
-</a>
-</td>
-
-<td width="8"></td>
-
-<td>
-<a href="mailto:Bibekydv51@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-D9534F?style=for-the-badge" />
-</a>
-</td>
-
-<td width="8"></td>
-
-<td>
-<a href="https://www.linkedin.com/in/bibek-yadav-060ba03b2">
-<img src="https://img.shields.io/badge/LINKEDIN-4382C0?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</td>
-
-</tr>
-</table>
 
 </div>
 
@@ -90,9 +73,7 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 
 <br><br>
 
-<img
-  src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 </div>
 
@@ -118,32 +99,29 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 <table>
 <tr>
-
 <td width="33%" valign="top">
 
 <h2>🚗 Bibek Car Rental</h2>
 
+<hr>
+
 <p>
-Modern car rental platform with vehicle listings,
-booking functionality, live price calculation
-and database integration.
+Modern car rental platform with vehicle listings, booking functionality, live price calculation and database integration.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-4B8B2C?style=flat-square&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<p>
+<br>
+
 <a href="https://bibek-yadav.com.np/bibek_car_rental">
 🌐 <b>Live Site</b>
 </a>
-</p>
 
 </td>
 
@@ -151,10 +129,10 @@ and database integration.
 
 <h2>🥛 Yadav Ji Doodh Dairy</h2>
 
+<hr>
+
 <p>
-Responsive dairy products website featuring
-product information, WhatsApp ordering,
-contact functionality and clean UI.
+Responsive dairy products website featuring product information, WhatsApp ordering, contact functionality and clean UI.
 </p>
 
 <p>
@@ -164,11 +142,11 @@ contact functionality and clean UI.
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-<p>
+<br>
+
 <a href="https://bibek-yadav.com.np/yadav_dairy">
 🌐 <b>Live Site</b>
 </a>
-</p>
 
 </td>
 
@@ -176,10 +154,10 @@ contact functionality and clean UI.
 
 <h2>🌐 Personal Portfolio</h2>
 
+<hr>
+
 <p>
-Personal portfolio showcasing my skills,
-education, projects and developer journey
-with a responsive modern design.
+Personal portfolio showcasing my skills, education, projects and developer journey with a responsive modern design.
 </p>
 
 <p>
@@ -189,49 +167,58 @@ with a responsive modern design.
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-<p>
+<br>
+
 <a href="https://bibek-yadav.com.np">
 🌐 <b>Live Site</b>
 </a>
-</p>
 
 </td>
-
 </tr>
 </table>
-
-</div>
 
 ---
 
 # 🎓 Education
 
-### 🎓 BSc (Hons) Computer Systems Engineering
+<table>
+<tr>
+<td width="55" align="center">
 
-**ISMT College / University of Sunderland**
+🎓<br>
+<strong>●</strong><br>
+│<br>
+<strong>●</strong><br>
+│<br>
+<strong>●</strong>
 
-Currently developing knowledge in:
+</td>
 
-- 💻 Computer Systems
-- 🧑‍💻 Software Development
-- 🔤 Programming
-- 🌐 Web Technologies
-- 🗄️ Databases
-- 🚀 Modern Computing Technologies
+<td valign="top">
 
----
+### 🎓 BSc (Hons) COMPUTER SYSTEMS ENGINEERING (BSc. IT)
 
-### 🏫 +2 — Management
+**Now studying in ISMT College / University of Sunderland**
 
-**Khwopa Secondary School**
+- Currently studying and gaining comprehensive knowledge in computer systems, software development, and modern technologies.
 
-**Focus:** Computer & Economics
+<br>
 
----
+### 🎓 +2 completed from Khwopa Secondary School
 
-### 🏫 SEE
+**Completed Higher Secondary Education (Management)**
 
-**Nabin English School**
+- Completed Higher Secondary Education (Management) with a focus on Computer and Economics.
+
+<br>
+
+### 🎓 SEE completed from Nabin English School
+
+- Completed Secondary Education Examination (SEE) with a strong academic foundation.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -247,43 +234,21 @@ Currently developing knowledge in:
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
 ### 💻 Development
 
 Building modern and responsive applications.
-
-</td>
-
-<td align="center" width="25%">
 
 ### 🧠 Problem Solving
 
 Programming logic, algorithms and debugging.
 
-</td>
-
-<td align="center" width="25%">
-
 ### 📚 Continuous Learning
 
 Exploring new technologies and improving my skills.
 
-</td>
-
-<td align="center" width="25%">
-
 ### 🚀 Building Projects
 
 Turning ideas into practical applications.
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
@@ -339,7 +304,11 @@ Turning ideas into practical applications.
   width="48%"
 />
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com?user=bibekydv285-source&theme=tokyonight&hide_border=true"
@@ -435,7 +404,7 @@ Turning ideas into practical applications.
 <br><br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=80&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=120&section=footer"
 />
 
 </div>
