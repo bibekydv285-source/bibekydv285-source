@@ -134,7 +134,7 @@ Developer portfolio showcasing skills, education and projects through a responsi
 <td>
 
 **BSc (Hons) Computer Systems Engineering** — *ISMT College / University of Sunderland*
-`In Progress`
+`current`
 Gaining comprehensive knowledge in computer systems, software development, and modern technologies.
 
 </td>
@@ -143,7 +143,7 @@ Gaining comprehensive knowledge in computer systems, software development, and m
 <td align="center">📘</td>
 <td>
 
-**+2 (Management)** — *Khwopa Secondary School*
+**+2 (Management) ** — * completed from Khwopa Secondary School*
 Focus on Computer Science and Economics.
 
 </td>
@@ -152,7 +152,7 @@ Focus on Computer Science and Economics.
 <td align="center">📖</td>
 <td>
 
-**SEE** — *Nabin English School*
+**SEE** — * completed from Nabin English School*
 Strong academic foundation in secondary education.
 
 </td>
