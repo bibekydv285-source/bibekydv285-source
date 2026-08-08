@@ -79,22 +79,35 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 
 ---
 
-# 📊 Skills
+## 🧰 Tech Stack
 
-| Technology | Level |
-|:---|:---:|
-| **C#** | 🟦🟦🟦🟦⬜ Intermediate |
-| **ASP.NET Core** | 🟦🟦🟦🟦⬜ Intermediate |
-| **SQL Server** | 🟦🟦🟦🟦⬜ Intermediate |
-| **JavaScript** | 🟦🟦🟦🟦⬜ Intermediate |
-| **HTML** | 🟦🟦🟦🟦🟦 Advanced |
-| **CSS** | 🟦🟦🟦🟦🟦 Advanced |
-| **Bootstrap** | 🟦🟦🟦🟦⬜ Intermediate |
-| **Python** | 🟦🟦⬜⬜⬜ Basic |
-| **Git & GitHub** | 🟦🟦🟦🟦⬜ Intermediate |
-| **Problem Solving** | 🟩🟩🟩🟩🟩 Strong |
-| **Algorithms** | 🟩🟩🟩🟩🟩 Strong |
+### 👨‍💻 Programming
+<p>
+  <img src="https://img.shields.io/badge/C%23-Intermediate-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-Intermediate-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-Intermediate-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-Intermediate-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Intermediate-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### 🧠 Core Strengths
+<p>
+  <img src="https://img.shields.io/badge/Problem_Solving-Strong-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithms-Strong-16A34A?style=for-the-badge"/>
+</p>
 ---
 
 # 🚀 Featured Projects
