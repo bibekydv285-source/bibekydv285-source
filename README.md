@@ -175,106 +175,33 @@ Personal portfolio showcasing my skills, education, projects and developer journ
 
 # 🎓 Education
 
-<div align="center">
-
-### 🎓 MY EDUCATION JOURNEY
-
-**From Secondary Education → Higher Secondary → Computer Systems Engineering**
-
-<br>
-
-</div>
-
-<table>
-<tr>
-
-<td width="8%" align="center" valign="top">
-
-### **01**
-
-🎓
-
-</td>
-
-<td width="92%" valign="top">
-
-### 🎓 BSc (Hons) COMPUTER SYSTEMS ENGINEERING (BSc. IT)
+### 🎓 01 · BSc (Hons) Computer Systems Engineering
 
 **ISMT College / University of Sunderland**
 
 `CURRENTLY STUDYING`
 
-Currently studying and gaining comprehensive knowledge in computer systems, software development, and modern technologies.
-
-</td>
-
-</tr>
-
-<tr>
-<td colspan="2">
+> 📚 Currently studying and gaining comprehensive knowledge in computer systems, software development, and modern technologies.
 
 ---
 
-</td>
-</tr>
-
-<tr>
-
-<td width="8%" align="center" valign="top">
-
-### **02**
-
-🎓
-
-</td>
-
-<td width="92%" valign="top">
-
-### 🎓 +2 COMPLETED
+### 🎓 02 · +2 Completed
 
 **Khwopa Secondary School**
 
 `HIGHER SECONDARY EDUCATION · MANAGEMENT`
 
-Completed Higher Secondary Education (Management) with a focus on Computer and Economics.
-
-</td>
-
-</tr>
-
-<tr>
-<td colspan="2">
+> 💻 Completed Higher Secondary Education (Management) with a focus on Computer and Economics.
 
 ---
 
-</td>
-</tr>
-
-<tr>
-
-<td width="8%" align="center" valign="top">
-
-### **03**
-
-🎓
-
-</td>
-
-<td width="92%" valign="top">
-
-### 🎓 SEE COMPLETED
+### 🎓 03 · SEE Completed
 
 **Nabin English School**
 
 `SECONDARY EDUCATION EXAMINATION`
 
-Completed Secondary Education Examination (SEE) with a strong academic foundation.
-
-</td>
-
-</tr>
-
-</table>
+> 📖 Completed Secondary Education Examination (SEE) with a strong academic foundation.
 
 ---
 
