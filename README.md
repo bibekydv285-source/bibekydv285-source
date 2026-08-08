@@ -104,74 +104,66 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 
 <td width="33%" valign="top">
 
-<h2>🚗 Bibek Car Rental</h2>
+### 🚗 Bibek Car Rental
 
-<hr>
+---
 
-<p>
+**Modern Car Rental Platform**
+
 Modern car rental platform with vehicle listings, booking functionality, live price calculation and database integration.
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-4B8B2C?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-</p>
+**Tech Stack**
+
+`ASP.NET Core` · `C#` · `SQL Server`
 
 <br>
 
 <a href="https://bibek-yadav.com.np/bibek_car_rental">
-🌐 <b>Live Site</b>
+<img src="https://img.shields.io/badge/🌐_Live_Site-0EA5E9?style=for-the-badge" />
 </a>
 
 </td>
 
 <td width="33%" valign="top">
 
-<h2>🥛 Yadav Ji Doodh Dairy</h2>
+### 🥛 Yadav Ji Doodh Dairy
 
-<hr>
+---
 
-<p>
+**Responsive Dairy Website**
+
 Responsive dairy products website featuring product information, WhatsApp ordering, contact functionality and clean UI.
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
+**Tech Stack**
+
+`HTML` · `CSS` · `JavaScript` · `Bootstrap`
 
 <br>
 
 <a href="https://bibek-yadav.com.np/yadav_dairy">
-🌐 <b>Live Site</b>
+<img src="https://img.shields.io/badge/🌐_Live_Site-16A34A?style=for-the-badge" />
 </a>
 
 </td>
 
 <td width="33%" valign="top">
 
-<h2>🌐 Personal Portfolio</h2>
+### 🌐 Personal Portfolio
 
-<hr>
+---
 
-<p>
+**Developer Portfolio Website**
+
 Personal portfolio showcasing my skills, education, projects and developer journey with a responsive modern design.
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
+**Tech Stack**
+
+`HTML` · `CSS` · `JavaScript` · `Bootstrap`
 
 <br>
 
 <a href="https://bibek-yadav.com.np">
-🌐 <b>Live Site</b>
+<img src="https://img.shields.io/badge/🌐_Live_Site-2563EB?style=for-the-badge" />
 </a>
 
 </td>
@@ -183,50 +175,105 @@ Personal portfolio showcasing my skills, education, projects and developer journ
 
 # 🎓 Education
 
+<div align="center">
+
+### 🎓 MY EDUCATION JOURNEY
+
+**From Secondary Education → Higher Secondary → Computer Systems Engineering**
+
+<br>
+
+</div>
+
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="8%" align="center" valign="top">
 
-<h2>🎓 BSc (Hons)COMPUTER SYSTEMS ENGINEERING (BSc. IT)</h2>
+### **01**
 
-<hr>
+🎓
+
+</td>
+
+<td width="92%" valign="top">
+
+### 🎓 BSc (Hons) COMPUTER SYSTEMS ENGINEERING (BSc. IT)
 
 **ISMT College / University of Sunderland**
 
-📚 Currently studying and gaining comprehensive knowledge in computer systems, software development, and modern technologies.
+`CURRENTLY STUDYING`
 
-</td>
-
-<td width="33%" valign="top">
-
-<h2>🎓 +2 Completed</h2>
-
-<hr>
-
-### Khwopa Secondary School
-
-**Higher Secondary Education (Management)**
-
-💻 Completed Higher Secondary Education (Management) with a focus on Computer and Economics.
-
-</td>
-
-<td width="33%" valign="top">
-
-<h2>🎓 SEE Completed</h2>
-
-<hr>
-
-### Nabin English School
-
-**Secondary Education Examination (SEE)**
-
-📖 Completed Secondary Education Examination (SEE) with a strong academic foundation.
+Currently studying and gaining comprehensive knowledge in computer systems, software development, and modern technologies.
 
 </td>
 
 </tr>
+
+<tr>
+<td colspan="2">
+
+---
+
+</td>
+</tr>
+
+<tr>
+
+<td width="8%" align="center" valign="top">
+
+### **02**
+
+🎓
+
+</td>
+
+<td width="92%" valign="top">
+
+### 🎓 +2 COMPLETED
+
+**Khwopa Secondary School**
+
+`HIGHER SECONDARY EDUCATION · MANAGEMENT`
+
+Completed Higher Secondary Education (Management) with a focus on Computer and Economics.
+
+</td>
+
+</tr>
+
+<tr>
+<td colspan="2">
+
+---
+
+</td>
+</tr>
+
+<tr>
+
+<td width="8%" align="center" valign="top">
+
+### **03**
+
+🎓
+
+</td>
+
+<td width="92%" valign="top">
+
+### 🎓 SEE COMPLETED
+
+**Nabin English School**
+
+`SECONDARY EDUCATION EXAMINATION`
+
+Completed Secondary Education Examination (SEE) with a strong academic foundation.
+
+</td>
+
+</tr>
+
 </table>
 
 ---
