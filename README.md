@@ -17,18 +17,16 @@
 
 <img align="right" src="https://bibek-yadav.com.np/photo.jpeg" width="320" style="border-radius: 16px; margin-left: 20px; border: 3px solid #0EA5E9;" alt="Bibek Kumar Yadav"/>
 
-```yaml
-name: Bibek Kumar Yadav
-location: Kathmandu, Nepal
-role: Undergraduate Student & Aspiring Software Engineer
-degree: BSc (Hons) Computer Systems Engineering
-institution: ISMT College | University of Sunderland
-focus: ASP.NET Core, C#, SQL Server, Full-Stack Web Development
-goal: Become a Professional Software Engineer
-fun_fact: "Consistency + Learning + Practice = Growth"
-```
+Hey, I'm **Bibek** 👋 — I build things with **ASP.NET Core, C#, and SQL Server**, and I'm chasing one goal: becoming a professional software engineer who ships work that actually holds up in production. Based out of **Kathmandu, Nepal**, currently deep in my Computer Systems Engineering degree while stacking real projects on the side.
 
-- 🎓 Currently pursuing **BSc (Hons) Computer Systems Engineering** at ISMT College, affiliated with the **University of Sunderland**
+<table>
+<tr><td>📍</td><td><b>Location</b></td><td>Kathmandu, Nepal</td></tr>
+<tr><td>🎓</td><td><b>Studying</b></td><td>BSc (Hons) Computer Systems Engineering — ISMT College / University of Sunderland</td></tr>
+<tr><td>🛠️</td><td><b>Core Stack</b></td><td>ASP.NET Core · C# · SQL Server</td></tr>
+<tr><td>🎯</td><td><b>Chasing</b></td><td>A career as a Professional Software Engineer</td></tr>
+<tr><td>💬</td><td><b>Motto</b></td><td><i>"Consistency + Learning + Practice = Growth"</i></td></tr>
+</table>
+
 - 💻 Building real-world apps with **ASP.NET Core & C#**, backed by **SQL Server**
 - 🌱 Sharpening my **JavaScript**, **SQL**, and general software engineering fundamentals
 - 🧠 Passionate about **problem-solving**, clean architecture, and algorithms
