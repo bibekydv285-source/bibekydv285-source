@@ -1,23 +1,30 @@
 <div align="center">
 
-# 👋 Hi, I'm **Bibek Kumar Yadav**
-
-### 🚀 ASP.NET Core Developer · Full Stack Developer · Computer Systems Engineering Student
-
-<p>
-  <a href="https://bibek-yadav.com.np">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0EA5E9?style=for-the-badge" />
-  </a>
-  <a href="mailto:Bibekydv51@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/bibek-yadav-060ba03b2">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<!-- ===================== HERO BANNER ===================== -->
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications;Always+Learning+%26+Improving"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:405DE6,100:243B8F&height=300&section=header&text=Bibek%20Kumar%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=ASP.NET%20Core%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=22&animation=fadeIn"
+  width="100%"
+/>
+
+<br>
+
+<a href="https://bibek-yadav.com.np">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-0EA5E9?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="mailto:Bibekydv51@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bibek-yadav-060ba03b2">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications;Always+Learning+%26+Improving"
 />
 
 </div>
@@ -99,55 +106,99 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 
 # 🚀 Featured Projects
 
-## 🚗 Bibek Car Rental
-
-A modern car rental website featuring vehicle listings, booking functionality, live price calculation, responsive design and database integration.
-
-**Technologies:**
-
-`ASP.NET Core` · `C#` · `SQL Server` · `HTML` · `CSS` · `JavaScript` · `Bootstrap`
-
 <div align="center">
+
+<table>
+<tr>
+
+<!-- ================= PROJECT 1 ================= -->
+
+<td width="33%" valign="top">
+
+<h2>🚗 Bibek Car Rental</h2>
+
+<p>
+Modern car rental platform with vehicle listings,
+booking functionality, live price calculation
+and database integration.
+</p>
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+<br>
 
 <a href="https://bibek-yadav.com.np/bibek_car_rental">
-<img src="https://img.shields.io/badge/🌐_Visit_Live_Website-0EA5E9?style=for-the-badge" />
+  🌐 <b>Live Site</b>
 </a>
 
-</div>
+</td>
 
----
+<!-- ================= PROJECT 2 ================= -->
 
-## 🥛 Yadav Ji Doodh Dairy
+<td width="33%" valign="top">
 
-A responsive dairy products website featuring product information, WhatsApp ordering, contact functionality and a modern user interface.
+<h2>🥛 Yadav Ji Doodh Dairy</h2>
 
-**Technologies:**
+<p>
+Responsive dairy products website featuring
+product information, WhatsApp ordering,
+contact functionality and clean UI.
+</p>
 
-`HTML` · `CSS` · `JavaScript` · `Bootstrap`
+<br>
 
-<div align="center">
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+<br>
 
 <a href="https://bibek-yadav.com.np/yadav_dairy">
-<img src="https://img.shields.io/badge/🌐_Visit_Live_Website-16A34A?style=for-the-badge" />
+  🌐 <b>Live Site</b>
 </a>
 
-</div>
+</td>
 
----
+<!-- ================= PROJECT 3 ================= -->
 
-## 🌐 Personal Portfolio
+<td width="33%" valign="top">
 
-My personal portfolio website showcasing my skills, education, projects and developer journey.
+<h2>🌐 Personal Portfolio</h2>
 
-**Technologies:**
+<p>
+Personal portfolio showcasing my skills,
+education, projects and developer journey
+with a responsive modern design.
+</p>
 
-`HTML` · `CSS` · `JavaScript` · `Bootstrap`
+<br>
 
-<div align="center">
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+<br>
 
 <a href="https://bibek-yadav.com.np">
-<img src="https://img.shields.io/badge/🌐_Visit_Portfolio-2563EB?style=for-the-badge" />
+  🌐 <b>Live Site</b>
 </a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -196,21 +247,9 @@ Currently developing knowledge in:
 
 <div align="center">
 
-### 💻 Development
-
-Building modern and responsive applications.
-
-### 🧠 Problem Solving
-
-Programming logic, algorithms and debugging.
-
-### 📚 Continuous Learning
-
-Exploring new technologies and improving my skills.
-
-### 🚀 Building Projects
-
-Turning ideas into practical applications.
+| 💻 Development | 🧠 Problem Solving | 📚 Continuous Learning | 🚀 Building Projects |
+|:---:|:---:|:---:|:---:|
+| Building modern applications | Programming & algorithms | Exploring technologies | Turning ideas into projects |
 
 </div>
 
@@ -266,11 +305,7 @@ Turning ideas into practical applications.
   width="48%"
 />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com?user=bibekydv285-source&theme=tokyonight&hide_border=true"
