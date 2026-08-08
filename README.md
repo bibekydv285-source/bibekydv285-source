@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Bibek Kumar Yadav**
+# <mark>👋 Hi, I'm **Bibek Kumar Yadav**</mark>
 
 ### 🚀 ASP.NET Core Developer · Full Stack Developer · Computer Systems Engineering Student
 
