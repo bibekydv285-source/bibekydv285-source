@@ -6,12 +6,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/💻_ASP.NET_Core-0EA5E9?style=for-the-badge)
-![](https://img.shields.io/badge/C%23-6366F1?style=for-the-badge)
-![](https://img.shields.io/badge/SQL_Server-2563EB?style=for-the-badge)
-![](https://img.shields.io/badge/Full_Stack_Developer-14B8A6?style=for-the-badge)
-
-### 🎓 Computer Systems Engineering Student &nbsp;|&nbsp; Always Learning & Leveling Up 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Full+Stack+Web+Developer;Building+Modern%2C+Scalable+Applications;Computer+Systems+Engineering+Student;Always+Learning+%26+Leveling+Up+🚀" />
 
 </div>
 
