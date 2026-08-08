@@ -1,16 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:2563EB&height=200&section=header&text=Bibek%20Kumar%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ASP.NET%20Core%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:2563EB&height=160&section=header&text=Bibek%20Kumar%20Yadav&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ASP.NET%20Core%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Full+Stack+Web+Developer;Building+Modern%2C+Scalable+Applications;Computer+Systems+Engineering+Student;Always+Learning+%26+Leveling+Up+🚀" />
-
-</div>
-
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&height=40&lines=ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Full+Stack+Web+Developer;Building+Modern%2C+Scalable+Applications;Computer+Systems+Engineering+Student;Always+Learning+%26+Leveling+Up+🚀" />
 
 <a href="https://bibek-yadav.com.np"><img src="https://img.shields.io/badge/🌐_Portfolio-0EA5E9?style=for-the-badge" /></a>
 <a href="mailto:Bibekydv51@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge" /></a>
