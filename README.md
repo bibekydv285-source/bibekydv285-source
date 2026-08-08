@@ -57,7 +57,7 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Skills
 
 <div align="center">
 
@@ -108,7 +108,7 @@ I enjoy building modern, responsive and user-friendly web applications using **A
   <img src="https://img.shields.io/badge/Problem_Solving-Strong-16A34A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Algorithms-Strong-16A34A?style=for-the-badge"/>
 </p>
----
+
 
 # 🚀 Featured Projects
 
