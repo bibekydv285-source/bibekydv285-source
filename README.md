@@ -1,30 +1,31 @@
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
+<!-- ===================== HERO BANNER ===================== -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:405DE6,100:243B8F&height=180&section=header&text=Bibek%20Kumar%20Yadav&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=ASP.NET%20Core%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:405DE6,100:243B8F&height=155&section=header&text=Bibek%20Kumar%20Yadav&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=ASP.NET%20Core%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=17"
   width="100%"
 />
 
 <br>
 
 <a href="https://bibek-yadav.com.np">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-5EA9E6?style=for-the-badge" />
 </a>
 &nbsp;
 <a href="mailto:Bibekydv51@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📧%20EMAIL-D9534F?style=for-the-badge" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/bibek-yadav-060ba03b2">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-4382C0?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications;Always+Learning+%26+Improving"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=5EA9E6&center=true&vCenter=true&width=600&height=35&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications"
+  width="600"
 />
 
 </div>
@@ -80,7 +81,9 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img
+  src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
+/>
 
 </div>
 
@@ -111,6 +114,8 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 <table>
 <tr>
 
+<!-- ================= PROJECT 1 ================= -->
+
 <td width="33%" valign="top">
 
 <h2>🚗 Bibek Car Rental</h2>
@@ -127,13 +132,15 @@ and database integration.
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<p>
+<br>
+
 <a href="https://bibek-yadav.com.np/bibek_car_rental">
 🌐 <b>Live Site</b>
 </a>
-</p>
 
 </td>
+
+<!-- ================= PROJECT 2 ================= -->
 
 <td width="33%" valign="top">
 
@@ -152,13 +159,15 @@ contact functionality and clean UI.
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-<p>
+<br>
+
 <a href="https://bibek-yadav.com.np/yadav_dairy">
 🌐 <b>Live Site</b>
 </a>
-</p>
 
 </td>
+
+<!-- ================= PROJECT 3 ================= -->
 
 <td width="33%" valign="top">
 
@@ -177,11 +186,11 @@ with a responsive modern design.
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-<p>
+<br>
+
 <a href="https://bibek-yadav.com.np">
 🌐 <b>Live Site</b>
 </a>
-</p>
 
 </td>
 
