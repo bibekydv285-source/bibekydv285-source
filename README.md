@@ -18,14 +18,17 @@
 <img align="right" src="https://bibek-yadav.com.np/photo.jpeg" width="320" style="border-radius: 16px; margin-left: 20px; border: 3px solid #0EA5E9;" alt="Bibek Kumar Yadav"/>
 
 ```yaml
-whoami: Bibek Kumar Yadav
-based_in: Kathmandu, Nepal
-currently: Undergrad @ ISMT College | University of Sunderland
-building_with: ASP.NET Core · C# · SQL Server
-chasing: A career as a Professional Software Engineer
-believes: "Consistency + Learning + Practice = Growth"
+name: Bibek Kumar Yadav
+location: Kathmandu, Nepal
+role: Undergraduate Student & Aspiring Software Engineer
+degree: BSc (Hons) Computer Systems Engineering
+institution: ISMT College | University of Sunderland
+focus: ASP.NET Core, C#, SQL Server, Full-Stack Web Development
+goal: Become a Professional Software Engineer
+fun_fact: "Consistency + Learning + Practice = Growth"
 ```
 
+- 🎓 Currently pursuing **BSc (Hons) Computer Systems Engineering** at ISMT College, affiliated with the **University of Sunderland**
 - 💻 Building real-world apps with **ASP.NET Core & C#**, backed by **SQL Server**
 - 🌱 Sharpening my **JavaScript**, **SQL**, and general software engineering fundamentals
 - 🧠 Passionate about **problem-solving**, clean architecture, and algorithms
