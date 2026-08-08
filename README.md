@@ -1,55 +1,41 @@
 <div align="center">
 
-<!-- ===================== HERO BANNER ===================== -->
+<!-- ===================== HERO ===================== -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:405DE6,100:243B8F&height=145&section=header&text=Bibek%20Kumar%20Yadav&fontSize=38&fontColor=ffffff&fontAlignY=43&desc=ASP.NET%20Core%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=17"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:405DE6,100:243B8F&height=120&section=header&text=Bibek%20Kumar%20Yadav&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=ASP.NET%20Core%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=64&descSize=15"
   width="100%"
 />
 
-<!-- ===================== SOCIAL LINKS ===================== -->
+<!-- ===================== LINKS ===================== -->
 
 <table>
 <tr>
 
-<td align="center">
-
+<td>
 <a href="https://bibek-yadav.com.np">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-5EA9E6?style=for-the-badge" />
 </a>
-
 </td>
 
-<td width="12"></td>
+<td width="8"></td>
 
-<td align="center">
-
+<td>
 <a href="mailto:Bibekydv51@gmail.com">
 <img src="https://img.shields.io/badge/📧%20EMAIL-D9534F?style=for-the-badge" />
 </a>
-
 </td>
 
-<td width="12"></td>
+<td width="8"></td>
 
-<td align="center">
-
+<td>
 <a href="https://www.linkedin.com/in/bibek-yadav-060ba03b2">
 <img src="https://img.shields.io/badge/LINKEDIN-4382C0?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<!-- ===================== TYPING ===================== -->
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2800&pause=900&color=5EA9E6&center=true&vCenter=true&width=600&height=32&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications"
-/>
 
 </div>
 
@@ -137,8 +123,6 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 <table>
 <tr>
 
-<!-- ================= PROJECT 1 ================= -->
-
 <td width="33%" valign="top">
 
 <h2>🚗 Bibek Car Rental</h2>
@@ -155,15 +139,13 @@ and database integration.
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<br>
-
+<p>
 <a href="https://bibek-yadav.com.np/bibek_car_rental">
 🌐 <b>Live Site</b>
 </a>
+</p>
 
 </td>
-
-<!-- ================= PROJECT 2 ================= -->
 
 <td width="33%" valign="top">
 
@@ -182,15 +164,13 @@ contact functionality and clean UI.
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-<br>
-
+<p>
 <a href="https://bibek-yadav.com.np/yadav_dairy">
 🌐 <b>Live Site</b>
 </a>
+</p>
 
 </td>
-
-<!-- ================= PROJECT 3 ================= -->
 
 <td width="33%" valign="top">
 
@@ -209,11 +189,11 @@ with a responsive modern design.
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-<br>
-
+<p>
 <a href="https://bibek-yadav.com.np">
 🌐 <b>Live Site</b>
 </a>
+</p>
 
 </td>
 
@@ -272,9 +252,7 @@ Currently developing knowledge in:
 
 <td align="center" width="25%">
 
-### 💻
-
-**Development**
+### 💻 Development
 
 Building modern and responsive applications.
 
@@ -282,9 +260,7 @@ Building modern and responsive applications.
 
 <td align="center" width="25%">
 
-### 🧠
-
-**Problem Solving**
+### 🧠 Problem Solving
 
 Programming logic, algorithms and debugging.
 
@@ -292,9 +268,7 @@ Programming logic, algorithms and debugging.
 
 <td align="center" width="25%">
 
-### 📚
-
-**Continuous Learning**
+### 📚 Continuous Learning
 
 Exploring new technologies and improving my skills.
 
@@ -302,9 +276,7 @@ Exploring new technologies and improving my skills.
 
 <td align="center" width="25%">
 
-### 🚀
-
-**Building Projects**
+### 🚀 Building Projects
 
 Turning ideas into practical applications.
 
@@ -463,7 +435,7 @@ Turning ideas into practical applications.
 <br><br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=100&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=80&section=footer"
 />
 
 </div>
