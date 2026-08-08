@@ -183,21 +183,21 @@ Personal portfolio showcasing my skills, education, projects and developer journ
 
 > 📚 Currently studying and gaining comprehensive knowledge in computer systems, software development, and modern technologies.
 
-### 🎓 02 · +2 Completed
+---
+
+### 🎓 02 · +2 Completed from
 
 **Khwopa Secondary School**
 
-`HIGHER SECONDARY EDUCATION · MANAGEMENT`
+
 
 > 💻 Completed Higher Secondary Education (Management) with a focus on Computer and Economics.
 
 ---
 
-### 🎓 03 · SEE Completed
+### 🎓 03 · SEE Completed from
 
 **Nabin English School**
-
-`SECONDARY EDUCATION EXAMINATION`
 
 > 📖 Completed Secondary Education Examination (SEE) with a strong academic foundation.
 
