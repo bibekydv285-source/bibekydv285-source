@@ -99,137 +99,88 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
+## 🚗 Bibek Car Rental
 
-<td width="33%" valign="top">
+A modern car rental website featuring vehicle listings, booking functionality, live price calculation, responsive design and database integration.
 
-<h2>🚗 Bibek Car Rental</h2>
+**Technologies:**
 
-<hr>
+`ASP.NET Core` · `C#` · `SQL Server` · `HTML` · `CSS` · `JavaScript` · `Bootstrap`
 
-<p>
-Modern car rental platform with vehicle listings, booking functionality, live price calculation and database integration.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-4B8B2C?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-<br>
+<div align="center">
 
 <a href="https://bibek-yadav.com.np/bibek_car_rental">
-🌐 <b>Live Site</b>
+<img src="https://img.shields.io/badge/🌐_Visit_Live_Website-0EA5E9?style=for-the-badge" />
 </a>
 
-</td>
+</div>
 
-<td width="33%" valign="top">
+---
 
-<h2>🥛 Yadav Ji Doodh Dairy</h2>
+## 🥛 Yadav Ji Doodh Dairy
 
-<hr>
+A responsive dairy products website featuring product information, WhatsApp ordering, contact functionality and a modern user interface.
 
-<p>
-Responsive dairy products website featuring product information, WhatsApp ordering, contact functionality and clean UI.
-</p>
+**Technologies:**
 
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
+`HTML` · `CSS` · `JavaScript` · `Bootstrap`
 
-<br>
+<div align="center">
 
 <a href="https://bibek-yadav.com.np/yadav_dairy">
-🌐 <b>Live Site</b>
+<img src="https://img.shields.io/badge/🌐_Visit_Live_Website-16A34A?style=for-the-badge" />
 </a>
 
-</td>
+</div>
 
-<td width="33%" valign="top">
+---
 
-<h2>🌐 Personal Portfolio</h2>
+## 🌐 Personal Portfolio
 
-<hr>
+My personal portfolio website showcasing my skills, education, projects and developer journey.
 
-<p>
-Personal portfolio showcasing my skills, education, projects and developer journey with a responsive modern design.
-</p>
+**Technologies:**
 
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
+`HTML` · `CSS` · `JavaScript` · `Bootstrap`
 
-<br>
+<div align="center">
 
 <a href="https://bibek-yadav.com.np">
-🌐 <b>Live Site</b>
+<img src="https://img.shields.io/badge/🌐_Visit_Portfolio-2563EB?style=for-the-badge" />
 </a>
 
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 # 🎓 Education
 
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-<h2>🎓 BSc (Hons)</h2>
-
-<hr>
-
-### COMPUTER SYSTEMS ENGINEERING (BSc. IT)
+### 🎓 BSc (Hons) Computer Systems Engineering
 
 **ISMT College / University of Sunderland**
 
-📚 Currently studying and gaining comprehensive knowledge in computer systems, software development, and modern technologies.
+Currently developing knowledge in:
 
-</td>
+- 💻 Computer Systems
+- 🧑‍💻 Software Development
+- 🔤 Programming
+- 🌐 Web Technologies
+- 🗄️ Databases
+- 🚀 Modern Computing Technologies
 
-<td width="33%" valign="top">
+---
 
-<h2>🎓 +2 Completed</h2>
+### 🏫 +2 — Management
 
-<hr>
+**Khwopa Secondary School**
 
-### Khwopa Secondary School
+**Focus:** Computer & Economics
 
-**Higher Secondary Education (Management)**
+---
 
-💻 Completed Higher Secondary Education (Management) with a focus on Computer and Economics.
+### 🏫 SEE
 
-</td>
-
-<td width="33%" valign="top">
-
-<h2>🎓 SEE Completed</h2>
-
-<hr>
-
-### Nabin English School
-
-**Secondary Education Examination (SEE)**
-
-📖 Completed Secondary Education Examination (SEE) with a strong academic foundation.
-
-</td>
-
-</tr>
-</table>
+**Nabin English School**
 
 ---
 
