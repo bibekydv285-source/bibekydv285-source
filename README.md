@@ -300,19 +300,6 @@ Turning ideas into practical applications.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=bibekydv285-source&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"
-  width="90%"
-/>
-
-</div>
-
----
-
 # 📊 Contribution Activity
 
 <div align="center">
