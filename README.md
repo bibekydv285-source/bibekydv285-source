@@ -101,6 +101,7 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 <h2>🚗 Bibek Car Rental</h2>
@@ -174,6 +175,7 @@ Personal portfolio showcasing my skills, education, projects and developer journ
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -183,40 +185,49 @@ Personal portfolio showcasing my skills, education, projects and developer journ
 
 <table>
 <tr>
-<td width="55" align="center">
 
-🎓<br>
-<strong>●</strong><br>
-│<br>
-<strong>●</strong><br>
-│<br>
-<strong>●</strong>
+<td width="33%" valign="top">
+
+<h2>🎓 BSc (Hons)</h2>
+
+<hr>
+
+### COMPUTER SYSTEMS ENGINEERING (BSc. IT)
+
+**ISMT College / University of Sunderland**
+
+📚 Currently studying and gaining comprehensive knowledge in computer systems, software development, and modern technologies.
+
+</td>
+
+<td width="33%" valign="top">
+
+<h2>🎓 +2 Completed</h2>
+
+<hr>
+
+### Khwopa Secondary School
+
+**Higher Secondary Education (Management)**
+
+💻 Completed Higher Secondary Education (Management) with a focus on Computer and Economics.
 
 </td>
 
-<td valign="top">
+<td width="33%" valign="top">
 
-### 🎓 BSc (Hons) COMPUTER SYSTEMS ENGINEERING (BSc. IT)
+<h2>🎓 SEE Completed</h2>
 
-**Now studying in ISMT College / University of Sunderland**
+<hr>
 
-- Currently studying and gaining comprehensive knowledge in computer systems, software development, and modern technologies.
+### Nabin English School
 
-<br>
+**Secondary Education Examination (SEE)**
 
-### 🎓 +2 completed from Khwopa Secondary School
-
-**Completed Higher Secondary Education (Management)**
-
-- Completed Higher Secondary Education (Management) with a focus on Computer and Economics.
-
-<br>
-
-### 🎓 SEE completed from Nabin English School
-
-- Completed Secondary Education Examination (SEE) with a strong academic foundation.
+📖 Completed Secondary Education Examination (SEE) with a strong academic foundation.
 
 </td>
+
 </tr>
 </table>
 
