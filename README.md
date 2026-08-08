@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://bibek-yadav.com.np/photo.jpeg" width="220" style="border-radius: 12px; margin-left: 20px;" alt="Bibek Kumar Yadav"/>
+<img align="right" src="https://bibek-yadav.com.np/photo.jpeg" width="320" style="border-radius: 16px; margin-left: 20px; border: 3px solid #0EA5E9;" alt="Bibek Kumar Yadav"/>
 
 ```yaml
 name: Bibek Kumar Yadav
@@ -134,7 +134,7 @@ Developer portfolio showcasing skills, education and projects through a responsi
 <td>
 
 **BSc (Hons) Computer Systems Engineering** — *ISMT College / University of Sunderland*
-`current`
+`In Progress`
 Gaining comprehensive knowledge in computer systems, software development, and modern technologies.
 
 </td>
@@ -143,7 +143,7 @@ Gaining comprehensive knowledge in computer systems, software development, and m
 <td align="center">📘</td>
 <td>
 
-**+2 (Management) ** — * completed from Khwopa Secondary School*
+**+2 (Management)** — *Khwopa Secondary School*
 Focus on Computer Science and Economics.
 
 </td>
@@ -152,7 +152,7 @@ Focus on Computer Science and Economics.
 <td align="center">📖</td>
 <td>
 
-**SEE** — * completed from Nabin English School*
+**SEE** — *Nabin English School*
 Strong academic foundation in secondary education.
 
 </td>
