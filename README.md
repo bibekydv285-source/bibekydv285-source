@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- ===================== HERO BANNER ===================== -->
+<!-- ===================== HERO ===================== -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:405DE6,100:243B8F&height=300&section=header&text=Bibek%20Kumar%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=ASP.NET%20Core%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=22&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:405DE6,100:243B8F&height=180&section=header&text=Bibek%20Kumar%20Yadav&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=ASP.NET%20Core%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18&animation=fadeIn"
   width="100%"
 />
 
@@ -24,7 +24,7 @@
 <br><br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications;Always+Learning+%26+Improving"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications;Always+Learning+%26+Improving"
 />
 
 </div>
@@ -111,8 +111,6 @@ I enjoy building modern, responsive and user-friendly web applications using **A
 <table>
 <tr>
 
-<!-- ================= PROJECT 1 ================= -->
-
 <td width="33%" valign="top">
 
 <h2>🚗 Bibek Car Rental</h2>
@@ -123,23 +121,19 @@ booking functionality, live price calculation
 and database integration.
 </p>
 
-<br>
-
 <p>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<br>
-
+<p>
 <a href="https://bibek-yadav.com.np/bibek_car_rental">
-  🌐 <b>Live Site</b>
+🌐 <b>Live Site</b>
 </a>
+</p>
 
 </td>
-
-<!-- ================= PROJECT 2 ================= -->
 
 <td width="33%" valign="top">
 
@@ -151,24 +145,20 @@ product information, WhatsApp ordering,
 contact functionality and clean UI.
 </p>
 
-<br>
-
 <p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-<br>
-
+<p>
 <a href="https://bibek-yadav.com.np/yadav_dairy">
-  🌐 <b>Live Site</b>
+🌐 <b>Live Site</b>
 </a>
+</p>
 
 </td>
-
-<!-- ================= PROJECT 3 ================= -->
 
 <td width="33%" valign="top">
 
@@ -180,20 +170,18 @@ education, projects and developer journey
 with a responsive modern design.
 </p>
 
-<br>
-
 <p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-<br>
-
+<p>
 <a href="https://bibek-yadav.com.np">
-  🌐 <b>Live Site</b>
+🌐 <b>Live Site</b>
 </a>
+</p>
 
 </td>
 
@@ -401,7 +389,7 @@ Currently developing knowledge in:
 <br><br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=100&section=footer"
 />
 
 </div>
