@@ -3,29 +3,52 @@
 <!-- ===================== HERO BANNER ===================== -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:405DE6,100:243B8F&height=155&section=header&text=Bibek%20Kumar%20Yadav&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=ASP.NET%20Core%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=17"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:405DE6,100:243B8F&height=145&section=header&text=Bibek%20Kumar%20Yadav&fontSize=38&fontColor=ffffff&fontAlignY=43&desc=ASP.NET%20Core%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=17"
   width="100%"
 />
 
-<br>
+<!-- ===================== SOCIAL LINKS ===================== -->
+
+<table>
+<tr>
+
+<td align="center">
 
 <a href="https://bibek-yadav.com.np">
-  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-5EA9E6?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="mailto:Bibekydv51@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20EMAIL-D9534F?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/bibek-yadav-060ba03b2">
-  <img src="https://img.shields.io/badge/LINKEDIN-4382C0?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-5EA9E6?style=for-the-badge" />
 </a>
 
-<br><br>
+</td>
+
+<td width="12"></td>
+
+<td align="center">
+
+<a href="mailto:Bibekydv51@gmail.com">
+<img src="https://img.shields.io/badge/📧%20EMAIL-D9534F?style=for-the-badge" />
+</a>
+
+</td>
+
+<td width="12"></td>
+
+<td align="center">
+
+<a href="https://www.linkedin.com/in/bibek-yadav-060ba03b2">
+<img src="https://img.shields.io/badge/LINKEDIN-4382C0?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ===================== TYPING ===================== -->
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=5EA9E6&center=true&vCenter=true&width=600&height=35&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications"
-  width="600"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2800&pause=900&color=5EA9E6&center=true&vCenter=true&width=600&height=32&lines=ASP.NET+Core+Developer;Full+Stack+Developer;C%23+%7C+.NET+%7C+SQL+Server;Building+Modern+Web+Applications"
 />
 
 </div>
@@ -244,9 +267,51 @@ Currently developing knowledge in:
 
 <div align="center">
 
-| 💻 Development | 🧠 Problem Solving | 📚 Continuous Learning | 🚀 Building Projects |
-|:---:|:---:|:---:|:---:|
-| Building modern applications | Programming & algorithms | Exploring technologies | Turning ideas into projects |
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 💻
+
+**Development**
+
+Building modern and responsive applications.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Problem Solving**
+
+Programming logic, algorithms and debugging.
+
+</td>
+
+<td align="center" width="25%">
+
+### 📚
+
+**Continuous Learning**
+
+Exploring new technologies and improving my skills.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Building Projects**
+
+Turning ideas into practical applications.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
