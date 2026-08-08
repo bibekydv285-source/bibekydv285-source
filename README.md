@@ -175,15 +175,13 @@ Personal portfolio showcasing my skills, education, projects and developer journ
 
 # 🎓 Education
 
-### 🎓 01 · BSc (Hons) Computer Systems Engineering
+### 🎓 01 · BSc (Hons) COMPUTER SYSTEMS ENGINEERING (BSc. IT)
 
 **ISMT College / University of Sunderland**
 
 `CURRENTLY STUDYING`
 
 > 📚 Currently studying and gaining comprehensive knowledge in computer systems, software development, and modern technologies.
-
----
 
 ### 🎓 02 · +2 Completed
 
