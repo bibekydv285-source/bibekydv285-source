@@ -28,7 +28,7 @@ goal: Become a Professional Software Engineer
 fun_fact: "Consistency + Learning + Practice = Growth"
 ```
 
-- 🎓 Currently pursuing **BSc (Hons) Computer Systems Engineering (BSCIT)** at ISMT College, affiliated with the **University of Sunderland**
+- 🎓 Currently pursuing **BSc (Hons) Computer Systems Engineering (BSC.IT)** at ISMT College, affiliated with the **University of Sunderland**
 - 💻 Building real-world apps with **ASP.NET Core & C#**, backed by **SQL Server**
 - 🌱 Sharpening my **JavaScript**, **SQL**, and general software engineering fundamentals
 - 🧠 Passionate about **problem-solving**, clean architecture, and algorithms
@@ -136,7 +136,7 @@ Responsive dairy products website with product showcase, WhatsApp ordering and a
 <td width="10%" align="center">🎓</td>
 <td>
 
-**BSc (Hons) Computer Systems Engineering (BSCIT)** — *ISMT College / University of Sunderland*
+**BSc (Hons) Computer Systems Engineering (BSC.IT)**  *ISMT College / University of Sunderland*
 `In Progress`
 Gaining comprehensive knowledge in computer systems, software development, and modern technologies.
 
@@ -174,7 +174,7 @@ Strong academic foundation in secondary education.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bibekydv285-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bibekydv285-source&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=bibekydv285-source&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 ---
