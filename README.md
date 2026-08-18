@@ -21,7 +21,7 @@
 name: Bibek Kumar Yadav
 location: Kathmandu, Nepal
 role: Undergraduate Student & Aspiring Software Engineer
-degree: BSc (Hons) Computer Systems Engineering (BSCIT)
+degree: BSc (Hons) Computer Systems Engineering (BSC.IT)
 institution: ISMT College | University of Sunderland
 focus: ASP.NET Core, C#, SQL Server, Full-Stack Web Development
 goal: Become a Professional Software Engineer
