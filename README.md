@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://bibek-yadav.com.np/photo.jpeg" width="200" style="border-radius: 16px; margin-left: 20px; border: 3px solid #0EA5E9;" alt="Bibek Kumar Yadav"/>
+<img align="right" src="https://bibek-yadav.com.np/photo.jpeg" width="320" style="border-radius: 16px; margin-left: 20px; border: 3px solid #0EA5E9;" alt="Bibek Kumar Yadav"/>
 
 ```yaml
 name: Bibek Kumar Yadav
@@ -94,6 +94,7 @@ Role-based (Admin / Librarian / Student) library system with book inventory, bor
 
 `ASP.NET Core MVC` `C#` `EF Core` `SQL Server` `Azure`
 
+<a href="https://libraryinventorymanagementsystem1-faeqbsd4cecuaef6.centralindia-01.azurewebsites.net/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
 <a href="https://github.com/bibekydv285-source/LibraryInventoryManagementSystem1"><img src="https://img.shields.io/badge/📦_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
