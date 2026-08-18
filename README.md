@@ -136,7 +136,7 @@ Responsive dairy products website with product showcase, WhatsApp ordering and a
 <td width="10%" align="center">🎓</td>
 <td>
 
-**BSc (Hons) Computer Systems Engineering (BSC.IT)** — *ISMT College / University of Sunderland*
+**BSc (Hons) Computer Systems Engineering (BSC.IT)**  *ISMT College / University of Sunderland*
 `In Progress`
 Gaining comprehensive knowledge in computer systems, software development, and modern technologies.
 
@@ -146,7 +146,7 @@ Gaining comprehensive knowledge in computer systems, software development, and m
 <td align="center">📘</td>
 <td>
 
-**+2 (Management)** — *Khwopa Secondary School*
+**+2 (Management)**  *Khwopa Secondary School*
 Focus on Computer Science and Economics.
 
 </td>
@@ -155,7 +155,7 @@ Focus on Computer Science and Economics.
 <td align="center">📖</td>
 <td>
 
-**SEE** — *Nabin English School*
+**SEE**  *Nabin English School*
 Strong academic foundation in secondary education.
 
 </td>
@@ -170,14 +170,8 @@ Strong academic foundation in secondary education.
 
 ---
 
-## 📈 GitHub Analytics
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bibekydv285-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=bibekydv285-source&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
 
----
 
 ## 🎯 My Developer Journey
 
