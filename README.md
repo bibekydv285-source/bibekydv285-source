@@ -15,20 +15,20 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://bibek-yadav.com.np/photo.jpeg" width="320" style="border-radius: 16px; margin-left: 20px; border: 3px solid #0EA5E9;" alt="Bibek Kumar Yadav"/>
+<img align="right" src="https://bibek-yadav.com.np/photo.jpeg" width="200" style="border-radius: 16px; margin-left: 20px; border: 3px solid #0EA5E9;" alt="Bibek Kumar Yadav"/>
 
 ```yaml
 name: Bibek Kumar Yadav
 location: Kathmandu, Nepal
 role: Undergraduate Student & Aspiring Software Engineer
-degree: BSc (Hons) Computer Systems Engineering
+degree: BSc (Hons) Computer Systems Engineering (BSCIT)
 institution: ISMT College | University of Sunderland
 focus: ASP.NET Core, C#, SQL Server, Full-Stack Web Development
 goal: Become a Professional Software Engineer
 fun_fact: "Consistency + Learning + Practice = Growth"
 ```
 
-- 🎓 Currently pursuing **BSc (Hons) Computer Systems Engineering** at ISMT College, affiliated with the **University of Sunderland**
+- 🎓 Currently pursuing **BSc (Hons) Computer Systems Engineering (BSCIT)** at ISMT College, affiliated with the **University of Sunderland**
 - 💻 Building real-world apps with **ASP.NET Core & C#**, backed by **SQL Server**
 - 🌱 Sharpening my **JavaScript**, **SQL**, and general software engineering fundamentals
 - 🧠 Passionate about **problem-solving**, clean architecture, and algorithms
@@ -50,13 +50,15 @@ fun_fact: "Consistency + Learning + Practice = Growth"
 
 **Tools & Database**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,bootstrap&perline=6" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,bootstrap,azure&perline=7" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Azure_App_Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
 </div>
 
@@ -70,7 +72,7 @@ fun_fact: "Consistency + Learning + Practice = Growth"
 |:---|:---|
 | **HTML / CSS** | ![](https://progress-bar.xyz/95?title=Advanced&color=0EA5E9) |
 | **C# / ASP.NET Core** | ![](https://progress-bar.xyz/75?title=Intermediate&color=6366F1) |
-| **SQL Server** | ![](https://progress-bar.xyz/75?title=Intermediate&color=2563EB) |
+| **SQL Server / EF Core** | ![](https://progress-bar.xyz/75?title=Intermediate&color=2563EB) |
 | **JavaScript** | ![](https://progress-bar.xyz/70?title=Intermediate&color=F59E0B) |
 | **Bootstrap** | ![](https://progress-bar.xyz/75?title=Intermediate&color=8B5CF6) |
 | **Git & GitHub** | ![](https://progress-bar.xyz/75?title=Intermediate&color=10B981) |
@@ -85,6 +87,16 @@ fun_fact: "Consistency + Learning + Practice = Growth"
 
 <table width="100%">
 <tr>
+<td width="33%" valign="top">
+
+### 📚 Library Inventory Management System
+Role-based (Admin / Librarian / Student) library system with book inventory, borrowing, fines, reservations, real-time notifications, and secure email-based password recovery.
+
+`ASP.NET Core MVC` `C#` `EF Core` `SQL Server` `Azure`
+
+<a href="https://github.com/bibekydv285-source/LibraryInventoryManagementSystem1"><img src="https://img.shields.io/badge/📦_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
 <td width="33%" valign="top">
 
 ### 🚗 Bibek Car Rental
@@ -105,18 +117,14 @@ Responsive dairy products website with product showcase, WhatsApp ordering and a
 <a href="https://bibek-yadav.com.np/yadav_dairy"><img src="https://img.shields.io/badge/🌐_Live_Site-16A34A?style=for-the-badge" /></a>
 
 </td>
-<td width="33%" valign="top">
-
-### 🌐 Personal Portfolio
-Developer portfolio showcasing skills, education and projects through a responsive, modern design.
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-<a href="https://bibek-yadav.com.np"><img src="https://img.shields.io/badge/🌐_Live_Site-2563EB?style=for-the-badge" /></a>
-
-</td>
 </tr>
 </table>
+
+<div align="center">
+
+<a href="https://bibek-yadav.com.np"><img src="https://img.shields.io/badge/🌐_View_Full_Portfolio-2563EB?style=for-the-badge" /></a>
+
+</div>
 
 ---
 
@@ -127,7 +135,7 @@ Developer portfolio showcasing skills, education and projects through a responsi
 <td width="10%" align="center">🎓</td>
 <td>
 
-**BSc (Hons) Computer Systems Engineering** — *ISMT College / University of Sunderland*
+**BSc (Hons) Computer Systems Engineering (BSCIT)** — *ISMT College / University of Sunderland*
 `In Progress`
 Gaining comprehensive knowledge in computer systems, software development, and modern technologies.
 
@@ -157,7 +165,7 @@ Strong academic foundation in secondary education.
 
 ## 📜 Professional Training
 
-`✅ Problem Solving in Computer`   `✅ ASP.NET Core Development`   `✅ SQL Server Fundamentals`
+`✅ Problem Solving in Computer`   `✅ ASP.NET Core Development`   `✅ SQL Server Fundamentals`   `✅ Full Stack Development`
 
 ---
 
@@ -165,11 +173,7 @@ Strong academic foundation in secondary education.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bibekydv285-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekydv285-source&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bibekydv285-source&theme=tokyonight&hide_border=true" width="70%"/>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekydv285-source&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bibekydv285-source&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 ---
