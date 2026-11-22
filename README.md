@@ -1,14 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:2563EB&height=170&section=header&text=Bibek%20Kumar%20Yadav&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20Web%20Developer%20at%20Shiva%20Tatwa%20Digital%20%7C%20ISMT%20College&descAlignY=56&descSize=15" width="100%" alt="Bibek Kumar Yadav (Bibek Yadav)"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E3A8A,75:6366F1,100:0EA5E9&height=210&section=header&text=Bibek%20Kumar%20Yadav&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Web%20Developer%20at%20Shiva%20Tatwa%20Digital%20%E2%80%A2%20ISMT%20College&descAlignY=58&descSize=16" width="100%" alt="Bibek Kumar Yadav (Bibek Yadav)"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&height=40&lines=Hi%2C+I'm+Bibek+Yadav+%F0%9F%91%8B;Web+Developer+%40+Shiva+Tatwa+Digital;BSc+IT+Student+%40+ISMT+College%2C+Kathmandu;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;WordPress+Themes+%7C+cPanel+Hosting;5+Live+Client+Websites+Shipped+%F0%9F%9A%80" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&height=40&lines=Hi%2C+I'm+Bibek+Yadav+%F0%9F%91%8B;Web+Developer+%40+Shiva+Tatwa+Digital;BSc+IT+Student+%40+ISMT+College%2C+Kathmandu;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;WordPress+Themes+%7C+cPanel+Hosting;5+Live+Client+Websites+Shipped+%F0%9F%9A%80" alt="Typing intro"/>
 
-<a href="https://bibek-yadav.com.np"><img src="https://img.shields.io/badge/🌐_Portfolio-bibek--yadav.com.np-0EA5E9?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://bibek-yadav.com.np"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/bibek-yadav-060ba03b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:Bibekydv51@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://wa.me/9779763244805"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<a href="https://bibek-yadav.com.np/Bibek_Kumar_Yadav_Resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-6366F1?style=for-the-badge" alt="Resume"/></a>
+<a href="https://bibek-yadav.com.np/Bibek_Kumar_Yadav_Resume.pdf"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=bibekydv285-source&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/📍_Kathmandu,_Nepal-1E293B?style=flat-square" alt="Kathmandu, Nepal"/>
+<img src="https://img.shields.io/badge/🎓_ISMT_College-1E293B?style=flat-square" alt="ISMT College"/>
+<img src="https://img.shields.io/badge/💼_Open_to_work-16A34A?style=flat-square" alt="Open to work"/>
 
 </div>
 
@@ -269,6 +275,21 @@ Fast static portfolio with SEO, structured data and a WhatsApp contact form, hos
 </td>
 </tr>
 </table>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bibekydv285-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=F59E0B&custom_title=Bibek%20Yadav%27s%20GitHub%20Stats&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekydv285-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&langs_count=8" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=bibekydv285-source&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=F59E0B&currStreakLabel=0EA5E9" alt="GitHub streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bibekydv285-source&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=6366F1&point=F59E0B&area=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
+
+</div>
 
 ---
 
