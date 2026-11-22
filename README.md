@@ -47,6 +47,36 @@ motto: "Consistency + Learning + Practice = Growth"
 
 ---
 
+## ⚡ Quick Facts
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">💼<br><b>Role</b><br><sub>Web Developer</sub></td>
+<td align="center" width="25%">🏢<br><b>Company</b><br><sub>Shiva Tatwa Digital</sub></td>
+<td align="center" width="25%">🎓<br><b>College</b><br><sub>ISMT College · Univ. of Sunderland</sub></td>
+<td align="center" width="25%">📍<br><b>Based in</b><br><sub>Kathmandu, Nepal</sub></td>
+</tr>
+<tr>
+<td align="center">🌍<br><b>Live client sites</b><br><sub>5 and counting</sub></td>
+<td align="center">🗣️<br><b>Languages</b><br><sub>English · Nepali · Maithili · Hindi</sub></td>
+<td align="center">⏱️<br><b>Available for</b><br><sub>Freelance · Internships · Full-time</sub></td>
+<td align="center">💬<br><b>Ask me about</b><br><sub>WordPress · ASP.NET Core · Hosting</sub></td>
+</tr>
+</table>
+
+</div>
+
+### 🔭 Right now
+
+- 🏗️ Building and maintaining **client websites** at Shiva Tatwa Digital
+- 📚 Studying **BSc (Hons) Computer Systems Engineering** at ISMT College
+- 🌱 Sharpening **ASP.NET Core, SQL and JavaScript**, one project at a time
+- 🤝 Open to **freelance work, internships and collaborations**: [say hi on WhatsApp](https://wa.me/9779763244805)
+
+---
+
 ## 💼 Work Experience
 
 <table width="100%">
@@ -289,6 +319,11 @@ Fast static portfolio with SEO, structured data and a WhatsApp contact form, hos
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bibekydv285-source&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=6366F1&point=F59E0B&area=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bibekydv285-source/bibekydv285-source/output/github-snake-dark.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/bibekydv285-source/bibekydv285-source/output/github-snake.svg" alt="Snake eating my contribution graph"/>
+</picture>
+
 </div>
 
 ---
@@ -329,12 +364,40 @@ Fast static portfolio with SEO, structured data and a WhatsApp contact form, hos
 
 ## 🛎️ What I Can Build For You
 
-`✅ Business & portfolio websites`   `✅ Custom WordPress themes`   `✅ ASP.NET Core web apps`   `✅ Hosting, domains & DNS on cPanel`
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">🌐<br><b>Business Websites</b><br><sub>Fast, responsive and SEO-ready sites that bring in enquiries</sub></td>
+<td align="center" width="25%">🎨<br><b>WordPress Themes</b><br><sub>Custom-built themes that are easy for you to edit</sub></td>
+<td align="center" width="25%">⚙️<br><b>ASP.NET Core Apps</b><br><sub>Dashboards, user roles and SQL databases</sub></td>
+<td align="center" width="25%">☁️<br><b>Hosting &amp; Domains</b><br><sub>cPanel, DNS, SSL and site migrations</sub></td>
+</tr>
+</table>
+
+### 🧭 How I Work
+
+<table>
+<tr>
+<td align="center" width="25%"><b>1️⃣ Discover</b><br><sub>We talk through your goals, audience and content.</sub></td>
+<td align="center" width="25%"><b>2️⃣ Design</b><br><sub>I plan the pages and a clean, mobile-first layout.</sub></td>
+<td align="center" width="25%"><b>3️⃣ Build</b><br><sub>I code it, connect forms, bookings and WhatsApp, and test every screen.</sub></td>
+<td align="center" width="25%"><b>4️⃣ Launch</b><br><sub>Domain, DNS and hosting set up, live, and supported.</sub></td>
+</tr>
+</table>
+
+<a href="https://bibek-yadav.com.np/services"><img src="https://img.shields.io/badge/🛎️_See_Services-0EA5E9?style=for-the-badge" alt="Services"/></a>
+<a href="https://wa.me/9779763244805"><img src="https://img.shields.io/badge/💬_Start_a_Project-25D366?style=for-the-badge" alt="Start a project"/></a>
+
+</div>
+
+---
+
+## 💡 Dev Quote of the Day
 
 <div align="center">
 
-<a href="https://bibek-yadav.com.np/services"><img src="https://img.shields.io/badge/🛎️_See_Services-0EA5E9?style=for-the-badge" alt="Services"/></a>
-<a href="https://bibek-yadav.com.np/contact"><img src="https://img.shields.io/badge/💬_Hire_Me-25D366?style=for-the-badge" alt="Contact"/></a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 
 </div>
 
