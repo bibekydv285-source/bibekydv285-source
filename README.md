@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://bibek-yadav.com.np/images/bibek-kumar-yadav-ismt.jpg" width="280" alt="Bibek Kumar Yadav (Bibek Yadav), Full Stack Developer and ISMT College student"/>
+<img align="right" src="assets/bibek-yadav.png" width="290" alt="Bibek Kumar Yadav (Bibek Yadav), Full Stack Developer and ISMT College student, available for work"/>
 
 I'm **Bibek Kumar Yadav** (**Bibek Yadav**), a **Full Stack Developer** from **Kathmandu, Nepal**. I work as a **Web Developer at [Shiva Tatwa Digital](https://shivatatwadigital.com/)** and study **BSc (Hons) Computer Systems Engineering (BSc IT)** at **ISMT College**, affiliated with the **University of Sunderland, UK**.
 
